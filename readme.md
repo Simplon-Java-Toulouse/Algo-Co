@@ -1,5 +1,5 @@
 
-![](/home/elbabili/Boostnote/notes/alice.jpg)
+![](./alice.jpg)
 You'll get a little code ?
 ===
 
@@ -14,7 +14,7 @@ You'll get a little code ?
 -> Attention, cette fois-ci, vous devez tourner dans votre équipe, cad qu'au bout d'une heure, prenez la place du dev à votre droite.
 
 * Si vous avez fini, voilà un jeu en bonus : 
-![](/home/elbabili/Boostnote/notes/jeu.png)
+![](./jeu.png)
 
 <h2>Mardi</h2>
 
