@@ -9,7 +9,7 @@ You'll get a little code ?
 
 **Back to algorithmic :**
 
-* Reprendre les exercices 1 à 10 (Java & Poo) et terminer tous ce que vous n'aviez pas encore réalisé
+* programme demande à l'utilisateur s'il souhaite jouer, si non alors sortir du programme, si oui, alors proposer de saisir un chiffre entre 1 et 100 et dire à chaque itération si le chiffre est plus petit ou plus grand... une fois le chiffre trouvé, sortir avec un message : vous avez trouvé en x coups !
 
 -> Attention, cette fois-ci, vous devez tourner dans votre équipe, cad qu'au bout d'une heure, prenez la place du dev à votre droite.
 
@@ -50,7 +50,8 @@ Comment automatiser tous ces tests ?
 
 Veille sur le multi threading
 
-33.1 Pedro et Sancho ont un compte bancaire commun et cela pose qq pb, comment les résoudre ?
+33.1 Pedro et Sancho ont un compte bancaire commun et cela pose qq pb, 
+comment les résoudre ?
 
 **Réflexions autour des Taches & Objectifs de la formation**
 
