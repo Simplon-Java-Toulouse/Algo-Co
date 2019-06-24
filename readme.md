@@ -9,11 +9,11 @@ You'll get a little code ?
 
 **Back to algorithmic :**
 
-* programme demande à l'utilisateur s'il souhaite jouer, si non alors sortir du programme, si oui, alors proposer de saisir un chiffre entre 1 et 100 et dire à chaque itération si le chiffre est plus petit ou plus grand... une fois le chiffre trouvé, sortir avec un message : vous avez trouvé en x coups !
+* Programme demande à l'utilisateur s'il souhaite jouer, si non alors sortir du programme, si oui, alors proposer de saisir un chiffre entre 1 et 100 et dire à chaque itération si le chiffre est plus petit ou plus grand... une fois le chiffre trouvé, sortir avec un message : vous avez trouvé en x coups !
 
 -> Attention, cette fois-ci, vous devez tourner dans votre équipe, cad qu'au bout d'une heure, prenez la place du dev à votre droite.
 
-* Si vous avez fini, voilà un jeu en bonus : 
+* Un autre jeu en bonus : 
 ![](./jeu.png)
 
 <h2>Mardi</h2>
