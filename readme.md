@@ -42,6 +42,7 @@ Either a list of unsorted number, find a way to sort it in ascending and descend
 Veille sur les tests unitaires avec Junit
 
 Kata : Trouver le nombre le plus grand dans une liste de nombre entier
+
 Comment automatiser tous ces tests ?
 
 32.1 Utiliser Junit pour les tests unitaires du TP 7 (les opérations add, mul...)
@@ -51,6 +52,7 @@ Comment automatiser tous ces tests ?
 Veille sur le multi threading
 
 33.1 Pedro et Sancho ont un compte bancaire commun et cela pose qq pb, 
+
 comment les résoudre ?
 
 **Réflexions autour des Taches & Objectifs de la formation**
