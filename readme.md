@@ -29,13 +29,13 @@ You'll get a little code ?
 31.1 Algo sorting
 Either a list of unsorted number, find a way to sort it in ascending and descending order (make the prog on sheet and then on your Ide)
 
-31.1 Palindrome algorithm
+31.2 Palindrome algorithm
 - Write a program that indicates if a string is a palindrome, for example : akka, otto
 - Find a solution among the capital letters, example: Akka
 
-31.2 Redo the v1 bank project without any help (winter vacation)
+31.3 Redo the v1 bank project without any help (winter vacation)
 
-31.3 Repeat all exercises with another language of your choice
+31.4 Repeat all exercises with another language of your choice
 
 <h2>Mercredi</h2>
 
